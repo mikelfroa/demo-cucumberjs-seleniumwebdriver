@@ -1,0 +1,20 @@
+{
+  "name": "demo-cucumberjs-seleniumwebdriver",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikelfroa/demo-cucumberjs-seleniumwebdriver.git"
+  },
+  "keywords": [
+    "cucumberjs"
+  ],
+  "devDependencies": {
+    "cucumber": "^2.3.1",
+    "selenium-webdriver": "^3.4.0",
+    "chromedriver": "2.29.0",
+    "chai": "^4.1.1"
+  }
+}
